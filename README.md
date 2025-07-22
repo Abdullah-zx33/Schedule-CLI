@@ -54,11 +54,6 @@ A custom-built **Command Line Interface (CLI)** schedule/task manager using **Ob
 
 ---
 
-## 📸 Demo (Optional)
-> *(You can add a screenshot or GIF later to show how it looks in action!)*
-
----
-
 ## 🙌 Credits
 Developed by **Abdullah** — passionate about becoming a game & app developer.
 
