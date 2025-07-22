@@ -39,6 +39,31 @@ A custom-built **Command Line Interface (CLI)** schedule/task manager using **Ob
 
 ---
 
-## Will Get Updates!
-- Next Upadate will Includes!
+## ⚙️ What You’ll Learn
+- Object-Oriented Programming (C++)
+- File handling using `fstream`
+- CLI design principles
+- Data management with files
+- Basic error handling
+
+---
+
+## 📌 Requirements
+- C++17 or higher
+- Compiler like `g++`, `MSVC`, or any IDE (Code::Blocks, VS Code, etc.)
+
+---
+
+## 📸 Demo (Optional)
+> *(You can add a screenshot or GIF later to show how it looks in action!)*
+
+---
+
+## 🙌 Credits
+Developed by **Abdullah** — passionate about becoming a game & app developer.
+
+---
+
+## Will Get Update!
+- Next Upadate will Include!
 `Real Time Notifications`
