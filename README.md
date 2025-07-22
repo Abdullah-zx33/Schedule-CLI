@@ -37,3 +37,8 @@ A custom-built **Command Line Interface (CLI)** schedule/task manager using **Ob
 - Tasks are saved as `.txt` files in the `Data` folder
 - Automatically created inside your project directory
 
+---
+
+## Will Get Updates!
+- Next Upadate will Includes!
+`Real Time Notifications`
